@@ -1,13 +1,9 @@
 ![Image](lab4_1.png)
 
 * Log into ieng6 <br />
- ```
+```
 Keys pressed: ssh<space>cs15lsp23ob@ieng6.ucsd.edu<enter>
- ```
- ```
 Because we generated SSH keys for ieng6. 
- ```
- ```
 We don't need to type the password to log in to the server.
  ```
 ![Image](lab4_2.png)
@@ -35,7 +31,7 @@ Key pressed:sh test.sh<enter>
 
 ![Image](lab4_4.png)
 * change ListExamples.java's code
-
+```
 Key pressed:vim ListExamples.java<Enter> 
 enter line 44：
 <esc>:44 
@@ -45,7 +41,7 @@ change "1" to "2":
 r2
 save file:
 <esc>:wq <enter>
-
+```
  
  
 ![Image](lab4_7.png)
